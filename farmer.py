@@ -142,7 +142,6 @@ def on_press(key):
         farmer.stop()
         return False  # mata listener
 Listener(on_press=on_press).start()
-
 #----- loop vazio para manter script vivo ---------------------
 while True:
     time.sleep(1)
