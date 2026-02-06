@@ -1,0 +1,1 @@
+opencv-python==4.9.0.80 pyautogui==0.9.54 pynput==1.7.6 torch==2.1.2+cpu torchvision==0.16.2+cpu mss==9.0.1 numpy==1.26.3
