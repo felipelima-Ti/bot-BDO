@@ -2,6 +2,8 @@ Esse script é um bot de automação em python para o jogo Black Desert Online (
 <br/><br/>
 Recomendaçoes de uso: ultilize o Python 13.11.8, dependendo se tiver dando erro de versão mude as variaveis ambiente do python, desative todos os sistema de segurança 
 <br/><br/>
+Ao ser Executado cria um arquivo mob_dectector que analisa a tela do jogo e cria um treinamento<br/>
+apos voce selecionar a area do jogo(roi)<br/><br/>
 O que esse bot faz (em resumo)
 <br/><br/>
 Captura uma área da tela do jogo (ROI).
