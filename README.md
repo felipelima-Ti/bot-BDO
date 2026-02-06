@@ -1,4 +1,6 @@
-Esse script é um bot de automação para o jogo Black Desert Online (BDO), que tenta detectar mobs na tela com uma IA simples e executar habilidades, loot e movimentação automaticamente.
+Esse script é um bot de automação em python para o jogo Black Desert Online (BDO), que tenta detectar mobs na tela com uma IA simples e executar habilidades, loot e <br/>movimentação automaticamente.
+<br/><br/>
+Recomendaçoes de uso: ultilize o Python 13.11.8, dependendo se tiver dando erro de versão mude as variaveis ambiente do python, desative todos os sistema de segurança 
 <br/><br/>
 O que esse bot faz (em resumo)
 <br/><br/>
@@ -117,4 +119,3 @@ F9 → inicia / pausa o bot
 <br/>
 ESC → encerra tudo
 <br/><br/>
-
